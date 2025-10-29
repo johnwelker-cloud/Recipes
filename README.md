@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+   
+  </head>
+  <body>
+    <h1>Recipes for actually good food.</h1>
+  </body>
+</html>
+<body>
+<a href="my-recipes/vodka-pasta.html">Vodka Pasta</a>
+
+</body>
+
+<body>
+<p><a href="my-recipes/fried-chicken.html">Fried Chicken</a></p>
+</body>
+
+<body>
+<p><a href="my-recipes/crack-burgers.html">Crack Burgers</a></p>
+</body>
